@@ -76,6 +76,10 @@ footer{
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+}
+html body p{
+    font-size: 25px;
 }
 .texto2{
     margin-left: 40px;
